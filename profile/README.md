@@ -49,3 +49,4 @@ Rustellar welcomes developers of all skill levels!
 ---
 
 ## Other language
+- [Japanese](profile-jp.md)
