@@ -2,6 +2,8 @@
 
 ## 🌌 Rustellarについて
 
+![image](https://github.com/user-attachments/assets/877fffcc-fc47-458f-9217-2c6213b8569a)
+
 **Rustellar** は、Rustを活用したソフトウェア開発を推進するオープンソース組織です。特にAI分野に注力し、堅牢で安全なAI開発を目指しているコミュニティです。私たちは、安全性、効率性、スケーラビリティを重視した技術開発を目指しています。
 
 ## 🚀 ミッション
