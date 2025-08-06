@@ -18,20 +18,19 @@ https://www.rust-lang.org/tools/install
 If you already have Rust installed, please check the versions of `rustc` and `cargo`.
 
 <details>
-  <summary>Windows</summary>
-  Powershell
-  
-  ```powershell
-  # Check rustc version
-  > rustc -V
-  rustc 1.88.0 (6b00bc388 2025-06-23)
+<summary>Windows</summary>
+Powershell
+
+```powershell
+# Check rustc version
+> rustc -V
+rustc 1.88.0 (6b00bc388 2025-06-23)
 
 # Check cargo version
-
 > cargo -V
 > cargo 1.88.0 (873a06493 2025-05-10)
 
-````
+```
 
 </details>
 
@@ -47,7 +46,7 @@ rustc 1.88.0 (6b00bc388 2025-06-23)
 $ # Check cargo version
 $ cargo -V
 cargo 1.88.0 (873a06493 2025-05-10)
-````
+```
 
 </details>
 
