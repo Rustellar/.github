@@ -37,7 +37,7 @@ Rustellar primarily adopts the following technologies:
 Rustellar welcomes developers of all skill levels!
 
 1. Check out our [Issues](https://github.com/Rustellar/issues) and [Projects](https://github.com/Rustellar/projects)
-2. Read our [Contribution Guide](https://github.com/Rustellar/contributing.md)
+2. Read our [Contribution Guide](https://github.com/Rustellar/.github/blob/main/profile/CONTRIBUTING.md)
 3. Join discussions and collaborate with Rust developers!
 
 ## 🌎 Community & Contact
